@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+environments/.env.secrets filter=git-crypt diff=git-crypt
+.gitattributes !filter !diff
